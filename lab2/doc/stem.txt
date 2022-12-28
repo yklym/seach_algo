@@ -1,3 +1,0 @@
-this is stemming title 
-
-cows cats carrots dogs
